@@ -1,0 +1,8 @@
+body {
+  background-image: url("../img/rainbackground.jpeg");
+  height:500px;
+}
+
+.animated {
+	animation-direction: up;
+}
